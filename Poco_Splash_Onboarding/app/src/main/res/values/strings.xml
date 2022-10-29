@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Poco</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="poco">POCO</string>
+
+    <!-- Onboarding Page-->
+    <string name="on_boarding_skip_button">SKIP</string>
+    <string name="on_boarding_next_button">Next</string>
+    <string name="on_boarding_start_button">Start</string>
+    <string name="on_boarding_prev_button">Prev</string>
+</resources>
