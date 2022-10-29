@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1098255311953",
+    "project_id": "poco-4906b",
+    "storage_bucket": "poco-4906b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098255311953:android:e432417243a4a1609e0470",
+        "android_client_info": {
+          "package_name": "com.muratcakin.poco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098255311953-3hmibenb7qr79v0jl5imle0c2ibgcnmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muratcakin.poco",
+            "certificate_hash": "7164ced6d755210665349b929ebe5b2b88a4eb38"
+          }
+        },
+        {
+          "client_id": "1098255311953-o19ipp20fu4vpfk53555kr4j7pc6acnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdw-pNykyBBdLP55DCdP__VY3tCI1NcCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098255311953-o19ipp20fu4vpfk53555kr4j7pc6acnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
