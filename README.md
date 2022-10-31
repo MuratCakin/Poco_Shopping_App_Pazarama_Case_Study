@@ -12,7 +12,7 @@ ONBOARDING
 
 PROFILE UI
 <br><br>
-<img src="https://user-images.githubusercontent.com/78666794/198845836-16694bb0-b76c-42ee-8576-71a547bd38f0.gif" width="250" height="500"/>
+<img src="https://user-images.githubusercontent.com/78666794/199074932-0993d08c-6bba-42a4-b2f5-f601ba02daa0.gif" width="250" height="500"/>
 <br>
 
 USER FIREBASE
