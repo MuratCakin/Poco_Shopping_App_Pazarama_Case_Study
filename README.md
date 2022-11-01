@@ -10,11 +10,11 @@ ONBOARDING
 <img src="https://user-images.githubusercontent.com/78666794/198845834-30c154d6-7b80-4edc-86cc-3fec486fa9d5.gif" width="250" height="500"/>
 <br>
 
-PROFILE UI
+USER FIREBASE
 <br><br>
 <img src="https://user-images.githubusercontent.com/78666794/199074932-0993d08c-6bba-42a4-b2f5-f601ba02daa0.gif" width="250" height="500"/>
 <br>
 
-USER FIREBASE
+PRODUCTS
 <br><br>
 <img src="https://user-images.githubusercontent.com/78666794/198899329-ac18bbd2-8bcc-4a1a-a029-a422241732ca.gif" width="250" height="500"/>
