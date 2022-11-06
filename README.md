@@ -46,76 +46,81 @@
 </ul>
 
 <h2>Features</h2>
-<h3>Splash</h3>
+<h3>Splash</h3
+<p>
+  <img src="https://user-images.githubusercontent.com/78666794/200168092-5bca91a3-2074-4943-bf0c-51acd28b3722.gif" width="200" height="400"/>
+</p>
 
 > Click for 
 <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/tree/main/Poco/app/src/main/java/com/muratcakin/poco/feature/splash">source codes</a>
 and 
 <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/blob/main/Poco/app/src/main/res/layout/activity_splash.xml">XML</a>
 > 
-<img src="https://user-images.githubusercontent.com/78666794/200168092-5bca91a3-2074-4943-bf0c-51acd28b3722.gif" width="200" height="400"/>
 
 ---
 
 <h3>Onboarding</h3>
+<p>
+  <img src="https://user-images.githubusercontent.com/78666794/200168628-838db24f-a7e4-4f3f-839f-7a095a0f2d9e.gif" width="200" height="400"/>
+</p>
 
 > Click for 
 <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/tree/main/Poco/app/src/main/java/com/muratcakin/poco/feature/onboarding">source codes</a>
 and
 <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/blob/main/Poco/app/src/main/res/layout/activity_onboarding.xml">XML</a>
 > 
-<img src="https://user-images.githubusercontent.com/78666794/200168628-838db24f-a7e4-4f3f-839f-7a095a0f2d9e.gif" width="200" height="400"/>
-
 ---
 
 <h3>Sign In</h3>
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/78666794/200168656-f3abf00a-ee24-4a82-8ebc-dc34d7f50ace.gif" width="200" height="400" align="middle"/>
+  <img src="https://user-images.githubusercontent.com/78666794/200170016-c1eb3d22-0539-4331-9fc6-38dff290ae85.png" alt="firebase user" width="600" align="middle" />
+</p>
 
 > Click for
 <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/tree/main/Poco/app/src/main/java/com/muratcakin/poco/feature/signin">source codes</a>
 and
 <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/blob/main/Poco/app/src/main/res/layout/fragment_sign_in.xml">XML</a>
 > 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/78666794/200168656-f3abf00a-ee24-4a82-8ebc-dc34d7f50ace.gif" width="200" height="400" align="middle"/>
-  <img src="https://user-images.githubusercontent.com/78666794/200170016-c1eb3d22-0539-4331-9fc6-38dff290ae85.png" alt="firebase user" width="600" align="middle" />
-</p>
 
 ---
 
 <h3>Search</h3>
+<p>
+  <img src="https://user-images.githubusercontent.com/78666794/200168679-e7d9812e-b3e0-4eb5-bd57-ea21795fee9c.gif" width="200" height="400"/>
+</p>
 
 > Click for
 <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/tree/main/Poco/app/src/main/java/com/muratcakin/poco/feature/search">source codes</a>
 and
 <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/blob/main/Poco/app/src/main/res/layout/fragment_search.xml">XML</a>
 > 
-<img src="https://user-images.githubusercontent.com/78666794/200168679-e7d9812e-b3e0-4eb5-bd57-ea21795fee9c.gif" width="200" height="400"/>
-
 ---
 
 <h3>Detail</h3>
+<p>
+  <img src="https://user-images.githubusercontent.com/78666794/200168730-d46af23e-223a-4bce-8adc-9ab08ba2d672.gif" width="200" height="400"/>
+</p>
 
 > Click for
 <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/tree/main/Poco/app/src/main/java/com/muratcakin/poco/feature/detail">source codes</a>
 and
 <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/blob/main/Poco/app/src/main/res/layout/fragment_product_detail.xml">XML</a>
 > 
-<img src="https://user-images.githubusercontent.com/78666794/200168730-d46af23e-223a-4bce-8adc-9ab08ba2d672.gif" width="200" height="400"/>
-
 ---
 
 <h3>Basket</h3>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/78666794/200168755-f2990f00-f797-4a59-ab2c-af86910bba85.gif" width="200" height="400" align="middle"/>
+  <img src="https://user-images.githubusercontent.com/78666794/200172299-21c7a39c-707e-43c2-b931-549f6d66e6cf.png" alt="firebase user" width="600" align="middle"/>
+</p>
 
 > Click for 
 <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/tree/main/Poco/app/src/main/java/com/muratcakin/poco/feature/basket">source codes</a>
 and
 <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/blob/main/Poco/app/src/main/res/layout/fragment_basket.xml">XML</a>
-
 > 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/78666794/200168755-f2990f00-f797-4a59-ab2c-af86910bba85.gif" width="200" height="400" align="middle"/>
-  <img src="https://user-images.githubusercontent.com/78666794/200172299-21c7a39c-707e-43c2-b931-549f6d66e6cf.png" alt="firebase user" width="600" align="middle"/>
-</p>
 
 ---
 
