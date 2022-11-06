@@ -125,8 +125,9 @@ and
 <br><br>
 
 <p align="center">
-  <img href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/blob/main/README.md"
-       src="https://user-images.githubusercontent.com/78666794/200168200-828e17c2-a251-4b1c-9df8-e3c3973091ff.png" alt="poco" width="50"/>
+  <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/blob/main/README.md" >
+     <img src="https://user-images.githubusercontent.com/78666794/200168200-828e17c2-a251-4b1c-9df8-e3c3973091ff.png" alt="poco" width="50"/>
+  </a>
 </p>
 
 
