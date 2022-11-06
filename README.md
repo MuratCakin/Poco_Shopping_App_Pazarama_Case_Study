@@ -95,7 +95,7 @@
 > 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/78666794/200168755-f2990f00-f797-4a59-ab2c-af86910bba85.gif" width="250" height="500" align="middle"/>
-  <img src="https://user-images.githubusercontent.com/78666794/200170021-2fea6bef-ee23-468d-86df-78f7af613cc2.png" alt="firebase user" width="750" align="middle"/>
+  <img src="https://user-images.githubusercontent.com/78666794/200172299-21c7a39c-707e-43c2-b931-549f6d66e6cf.png" alt="firebase user" width="750" align="middle"/>
 </p>
 
 ---
