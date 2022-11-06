@@ -31,6 +31,7 @@ class ProductDetailFragment : Fragment(), OnDetailProductClickListener {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
+        // Click Add to Basket Button
         lifecycleScope.launchWhenResumed {
             launch {
                 viewModel.uiState.collect {

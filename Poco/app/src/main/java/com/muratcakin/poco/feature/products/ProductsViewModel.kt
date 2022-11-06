@@ -33,6 +33,7 @@ class ProductsViewModel @Inject constructor(
         getProducts()
     }
 
+    // Get products from api
     private fun getProducts() {
         viewModelScope.launch {
             productsRepository.getProducts().collect {

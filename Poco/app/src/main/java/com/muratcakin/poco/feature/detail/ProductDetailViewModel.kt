@@ -39,6 +39,7 @@ class ProductDetailViewModel @Inject constructor(
         }
     }
 
+    // Get product by id
     private fun getProductDetail(productId: Int) {
         viewModelScope.launch {
             productDetailRepository.getProductDetail(productId).collect {
@@ -69,6 +70,7 @@ class ProductDetailViewModel @Inject constructor(
         }
     }
 
+    // Get product list from Firebase
     private fun getBasketList(id: Int?): Flow<MutableList<String>?> = channelFlow {
         val basketList = mutableListOf<String>()
         val callBack =
@@ -85,6 +87,7 @@ class ProductDetailViewModel @Inject constructor(
         awaitClose { callBack.isCanceled() }
     }
 
+    // You can add product only one time with Add to Basket Button
     fun onBasketProduct(data: ProductDTO) {
         viewModelScope.launch {
             val userId = firebaseAuth.currentUser?.uid
@@ -94,6 +97,7 @@ class ProductDetailViewModel @Inject constructor(
         }
     }
 
+    // Add product to Firebase
     private fun insertProduct(userId: String, data: ProductDTO) {
         fireStore.collection("basket").document(userId).collection("products")
             .let { ref ->
@@ -129,6 +133,7 @@ class ProductDetailViewModel @Inject constructor(
             }
     }
 
+    // Delete product from Firebase
     private fun deleteProduct(userId: String, id: Int?) {
         fireStore.collection("basket").document(userId).collection("products")
             .let { ref ->

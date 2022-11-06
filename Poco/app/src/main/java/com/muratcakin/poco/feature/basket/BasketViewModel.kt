@@ -26,6 +26,7 @@ class BasketViewModel @Inject constructor(
 
     init { getBasketList() }
 
+    // Get products from Firebase
     fun getBasketList() {
         viewModelScope.launch {
             val id = auth.currentUser?.uid

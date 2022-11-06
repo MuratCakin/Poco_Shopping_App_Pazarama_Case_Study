@@ -29,6 +29,8 @@ class SearchAdapter(private val listener: OnSearchProductClickListener) :
         RecyclerView.ViewHolder(binding.root) {
         fun bind(data: ProductDTO, listener: OnSearchProductClickListener) {
             binding.dataHolder = data
+
+            // Click for Detail Page
             binding.cvSearchProduct.setOnClickListener {
                 listener.onSearchProductDetailClick(data, it)
             }

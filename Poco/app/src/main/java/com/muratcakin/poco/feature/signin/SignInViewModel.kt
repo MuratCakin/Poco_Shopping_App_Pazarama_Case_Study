@@ -24,6 +24,7 @@ class SignInViewModel @Inject constructor(
     private val _uiEvent = MutableSharedFlow<SignInViewEvent>(replay = 0)
     val uiEvent: SharedFlow<SignInViewEvent> = _uiEvent
 
+    // Sign In with Firebase Auth
     fun signIn(email: String, password: String) {
         viewModelScope.launch {
             if (isValidFields(email, password)) {

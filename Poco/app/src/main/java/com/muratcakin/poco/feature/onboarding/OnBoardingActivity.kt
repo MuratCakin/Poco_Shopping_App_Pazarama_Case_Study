@@ -44,10 +44,12 @@ class OnBoardingActivity : AppCompatActivity() {
             }
         })
 
+        // Skip All On Boarding Pages
         binding.btnSkip.setOnClickListener {
             skipOnBoarding()
         }
 
+        // Next page
         binding.btnNext.setOnClickListener {
             if (binding.viewPager.currentItem == 2) {
                 skipOnBoarding()
@@ -56,6 +58,7 @@ class OnBoardingActivity : AppCompatActivity() {
             }
         }
 
+        // Previous page
         binding.btnPrev.setOnClickListener {
             binding.viewPager.setCurrentItem(binding.viewPager.currentItem.minus(1), true)
         }
@@ -66,6 +69,7 @@ class OnBoardingActivity : AppCompatActivity() {
         navigateToMain()
     }
 
+    // Prepare pages
     private fun prepareOnBoardingItems(): List<Int> {
         return listOf(
             R.layout.item_onboarding,
@@ -74,6 +78,7 @@ class OnBoardingActivity : AppCompatActivity() {
         )
     }
 
+    // Call on boarding pages only one time
     private fun navigateToMain() {
         val intent = Intent(this, MainActivity::class.java)
         intent.putExtra(MainActivity.KEY_NAVIGATE_PRODUCTS, false)

@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.view.Window
 import com.muratcakin.poco.R
 
+// Class for Lottie Animation
 class LoadingProgressBar(context: Context) : Dialog(context) {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

@@ -41,6 +41,7 @@ class SignUpFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
         navController = findNavController()
 
+        // Navigate to the Products Page when signed up
         lifecycleScope.launchWhenResumed {
             launch {
                 viewModel.uiEvent.collect {
@@ -64,6 +65,7 @@ class SignUpFragment : Fragment() {
             }
         }
 
+        // Navigate to the Sign In Page
         binding.btnSignInPage.setOnClickListener {
             navController.navigate(R.id.action_signUpFragment_to_signInFragment)
         }
@@ -91,6 +93,7 @@ class SignUpFragment : Fragment() {
         initViews()
     }
 
+    // Init Sign Up UI
     private fun initViews() {
         with(binding) {
             btnSignUp.setOnClickListener {

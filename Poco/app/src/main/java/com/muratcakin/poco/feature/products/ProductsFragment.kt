@@ -39,6 +39,7 @@ class ProductsFragment : Fragment(), OnProductClickListener {
         super.onViewCreated(view, savedInstanceState)
 
         navController = findNavController()
+
         lifecycleScope.launchWhenResumed {
             launch {
                 viewModel.uiState.collect {
@@ -72,6 +73,7 @@ class ProductsFragment : Fragment(), OnProductClickListener {
         }
     }
 
+    // Navigate to detail page
     override fun onProductDetailClick(product: ProductDTO, view: View) {
         product.id?.let { viewModel.getProductById(it) }
         navController.navigate(

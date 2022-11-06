@@ -22,6 +22,7 @@ class SignUpViewModel @Inject constructor(
     private val _uiEvent = MutableSharedFlow<SignUpViewEvent>(replay = 0)
     val uiEvent: SharedFlow<SignUpViewEvent> = _uiEvent
 
+    // Sign up with FireBase Auth
     fun signUp(email: String, password: String, confirmPassword: String, userName: String) {
         viewModelScope.launch {
             isValidFields(email, password, confirmPassword, userName)?.let {
@@ -62,6 +63,7 @@ class SignUpViewModel @Inject constructor(
         }
     }
 
+    // Validation rules for new user sign up
     private fun isValidFields(
         email: String,
         password: String,

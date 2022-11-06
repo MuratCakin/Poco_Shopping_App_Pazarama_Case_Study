@@ -19,6 +19,7 @@ class SplashActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash)
 
+        // Navigate after Splash Screen
         lifecycleScope.launchWhenResumed {
             launch {
                 viewModel.uiEvent.collect {

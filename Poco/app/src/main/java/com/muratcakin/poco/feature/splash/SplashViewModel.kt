@@ -23,6 +23,7 @@ class SplashViewModel @Inject constructor(
         checkOnBoardingVisibleStatus()
     }
 
+    // Show On Boarding Pages only one time
     private fun checkOnBoardingVisibleStatus() {
         viewModelScope.launch {
             val isOnBoardingVisible = dataStoreManager.getOnBoardingVisible.first()

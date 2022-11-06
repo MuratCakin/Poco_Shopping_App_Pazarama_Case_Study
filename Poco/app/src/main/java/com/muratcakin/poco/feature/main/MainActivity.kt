@@ -46,6 +46,7 @@ class MainActivity : AppCompatActivity() {
     }
 
 
+    // Initialize navigation
     private fun initNavController(isNavigateToProducts: Boolean) {
         val topAppBar: MaterialToolbar = findViewById(R.id.topAppBar)
         val navHostFragment =
@@ -53,10 +54,12 @@ class MainActivity : AppCompatActivity() {
         val navController = navHostFragment.navController
         binding.bottomNavigationView.setupWithNavController(navController)
 
+        // Redirect to the login page if not logged in
         if (isNavigateToProducts.not()) {
             navController.navigate(R.id.sign_in_graph)
         }
 
+        // Navigate when click Basket Icon
         topAppBar.setOnMenuItemClickListener { menuItem ->
             when (menuItem.itemId) {
                 R.id.basket -> {

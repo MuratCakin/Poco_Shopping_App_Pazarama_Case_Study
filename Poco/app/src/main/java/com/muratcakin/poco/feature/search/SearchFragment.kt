@@ -79,6 +79,7 @@ class SearchFragment : Fragment(), OnSearchProductClickListener {
         }
     }
 
+    // Navigate to Detail Page
     override fun onSearchProductDetailClick(product: ProductDTO, view: View) {
         product.id?.let { viewModel.getProductById(it) }
         navController.navigate(R.id.action_searchFragment_to_productDetailFragment, Bundle().apply {
@@ -93,6 +94,7 @@ class SearchFragment : Fragment(), OnSearchProductClickListener {
             }
     }
 
+    // Search product by name
     private fun searchProduct() {
         binding.searchView.setOnQueryTextListener(object :
             androidx.appcompat.widget.SearchView.OnQueryTextListener {

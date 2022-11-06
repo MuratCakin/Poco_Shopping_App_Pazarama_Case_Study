@@ -39,6 +39,7 @@ class SearchViewModel @Inject constructor(
         getProducts()
     }
 
+    // Get products from api
     fun getProducts() {
         viewModelScope.launch {
             productsRepository.getProducts().collect {

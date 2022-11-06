@@ -29,6 +29,7 @@ class ProfileFragment() : Fragment() {
         // Inflate the layout for this fragment
         _binding = FragmentProfileBinding.inflate(inflater, container, false)
 
+        // Get user information from Sign In Page
         sharedViewModel.email.observe(viewLifecycleOwner) { email ->
             binding.tvEmail.text = email
         }
@@ -68,6 +69,7 @@ class ProfileFragment() : Fragment() {
             }
         }
 
+        // Navigate to Sign Up Page
         binding.btnSignOut.setOnClickListener {
             firebaseAuth.signOut()
             val action = ProfileFragmentDirections.actionProfileFragmentToSignInGraph()

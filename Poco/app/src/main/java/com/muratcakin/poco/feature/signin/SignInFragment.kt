@@ -36,6 +36,7 @@ class SignInFragment : Fragment() {
     ): View? {
         binding = FragmentSignInBinding.inflate(inflater, container, false)
 
+        // Send user information to Profile Page
         sharedViewModel.email.observe(viewLifecycleOwner) { email ->
             binding.etEmailSignIn.setText(email)
         }
@@ -53,6 +54,7 @@ class SignInFragment : Fragment() {
         loadingProgressBar = LoadingProgressBar(requireContext())
         navController = findNavController()
 
+        // Navigate to the Products Page when signed in
         lifecycleScope.launchWhenResumed {
             launch {
                 viewModel.uiEvent.collect {
@@ -88,6 +90,7 @@ class SignInFragment : Fragment() {
             )
         }
 
+        // Navigate to the Sign Up Page
         binding.btnSignUpPage.setOnClickListener {
             navController.navigate(R.id.action_signInFragment_to_signUpFragment)
         }
