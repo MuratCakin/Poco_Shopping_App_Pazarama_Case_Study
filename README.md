@@ -68,7 +68,7 @@
 > 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/78666794/200168656-f3abf00a-ee24-4a82-8ebc-dc34d7f50ace.gif" width="250" height="500" align="middle"/>
-  <img src="https://user-images.githubusercontent.com/78666794/200170016-c1eb3d22-0539-4331-9fc6-38dff290ae85.png" alt="firebase user" width="500" align="middle" />
+  <img src="https://user-images.githubusercontent.com/78666794/200170016-c1eb3d22-0539-4331-9fc6-38dff290ae85.png" alt="firebase user" width="600" align="middle" />
 </p>
 
 ---
