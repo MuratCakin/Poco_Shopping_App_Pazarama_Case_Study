@@ -48,7 +48,7 @@
 <h2>Features</h2>
 <h3>Splash</h3>
 
-> For source codes click <a href="splash link">here</a><br>
+> For source codes click <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/tree/main/Poco/app/src/main/java/com/muratcakin/poco/feature/splash">here</a><br>
 > 
 <img src="https://user-images.githubusercontent.com/78666794/200168092-5bca91a3-2074-4943-bf0c-51acd28b3722.gif" width="250" height="500"/>
 
@@ -56,7 +56,7 @@
 
 <h3>Onboarding</h3>
 
-> For source codes click <a href="splash link">here</a><br>
+> For source codes click <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/tree/main/Poco/app/src/main/java/com/muratcakin/poco/feature/onboarding">here</a><br>
 > 
 <img src="https://user-images.githubusercontent.com/78666794/200168628-838db24f-a7e4-4f3f-839f-7a095a0f2d9e.gif" width="250" height="500"/>
 
@@ -64,7 +64,7 @@
 
 <h3>Sign In</h3>
 
-> For source codes click <a href="splash link">here</a><br>
+> For source codes click <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/tree/main/Poco/app/src/main/java/com/muratcakin/poco/feature/signin">here</a><br>
 > 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/78666794/200168656-f3abf00a-ee24-4a82-8ebc-dc34d7f50ace.gif" width="250" height="500" align="middle"/>
@@ -75,7 +75,7 @@
 
 <h3>Search</h3>
 
-> For source codes click <a href="splash link">here</a><br>
+> For source codes click <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/tree/main/Poco/app/src/main/java/com/muratcakin/poco/feature/search">here</a><br>
 > 
 <img src="https://user-images.githubusercontent.com/78666794/200168679-e7d9812e-b3e0-4eb5-bd57-ea21795fee9c.gif" width="250" height="500"/>
 
@@ -83,7 +83,7 @@
 
 <h3>Detail</h3>
 
-> For source codes click <a href="splash link">here</a><br>
+> For source codes click <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/tree/main/Poco/app/src/main/java/com/muratcakin/poco/feature/detail">here</a><br>
 > 
 <img src="https://user-images.githubusercontent.com/78666794/200168730-d46af23e-223a-4bce-8adc-9ab08ba2d672.gif" width="250" height="500"/>
 
@@ -91,7 +91,7 @@
 
 <h3>Basket</h3>
 
-> For source codes click <a href="splash link">here</a>
+> For source codes click <a href="https://github.com/MuratCakin/Poco_Shopping_App_Pazarama_Case_Study/tree/main/Poco/app/src/main/java/com/muratcakin/poco/feature/basket">here</a>
 > 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/78666794/200168755-f2990f00-f797-4a59-ab2c-af86910bba85.gif" width="250" height="500" align="middle"/>
