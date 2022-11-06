@@ -20,11 +20,11 @@
   <li>Architecture;</li>
   <ul>
     <li><a href="https://developer.android.com/topic/libraries/data-binding/">Data Binding</a></li>
-    <li>View Binding</li>
-    <li>ViewModel</li>
-    <li>Hilt</li>
-    <li>Navigation</li>
-    <li>DataStore</li>
+    <li><a href="https://developer.android.com/topic/libraries/view-binding">View Binding</a></li>
+    <li><a href="https://developer.android.com/topic/libraries/architecture/viewmodel">ViewModel</a></li>
+    <li><a href="https://developer.android.com/training/dependency-injection/hilt-android">Hilt</a></li>
+    <li><a href="https://developer.android.com/guide/navigation">Navigation</a></li>
+    <li><a href="https://developer.android.com/topic/libraries/architecture/datastore">DataStore</a></li>
   </ul>
 </ul>
 
