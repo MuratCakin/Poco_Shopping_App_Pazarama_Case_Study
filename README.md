@@ -68,7 +68,7 @@
 > 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/78666794/200168656-f3abf00a-ee24-4a82-8ebc-dc34d7f50ace.gif" width="250" height="500" align="middle"/>
-  <img src="https://user-images.githubusercontent.com/78666794/200170016-c1eb3d22-0539-4331-9fc6-38dff290ae85.png" alt="firebase user" width="750" align="middle" />
+  <img src="https://user-images.githubusercontent.com/78666794/200170016-c1eb3d22-0539-4331-9fc6-38dff290ae85.png" alt="firebase user" width="500" align="middle" />
 </p>
 
 ---
@@ -95,7 +95,7 @@
 > 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/78666794/200168755-f2990f00-f797-4a59-ab2c-af86910bba85.gif" width="250" height="500" align="middle"/>
-  <img src="https://user-images.githubusercontent.com/78666794/200172299-21c7a39c-707e-43c2-b931-549f6d66e6cf.png" alt="firebase user" width="750" align="middle"/>
+  <img src="https://user-images.githubusercontent.com/78666794/200172299-21c7a39c-707e-43c2-b931-549f6d66e6cf.png" alt="firebase user" width="500" align="middle"/>
 </p>
 
 ---
