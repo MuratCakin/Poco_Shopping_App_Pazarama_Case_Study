@@ -131,9 +131,10 @@ and
 
 <p align="center">
   <a href="#poco" >
-     <img src="https://user-images.githubusercontent.com/78666794/200168200-828e17c2-a251-4b1c-9df8-e3c3973091ff.png" alt="poco" width="50"/>
+     <img src="https://user-images.githubusercontent.com/78666794/200168200-828e17c2-a251-4b1c-9df8-e3c3973091ff.png" alt="poco" width="100"/>
   </a>
 </p>
+<p align="center">Thanks to Patika, Pazarama, and Mert Toptas for their support.</p>
 
 
 
