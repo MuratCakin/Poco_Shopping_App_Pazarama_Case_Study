@@ -101,7 +101,9 @@
 ---
 
 <h3>Contact</h3>
-<a href="https://www.linkedin.com/in/muratcakin/">LinkedIn</a><br>
+<a href="https://www.linkedin.com/in/muratcakin/">LinkedIn</a>
+
+<br><br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/78666794/200168200-828e17c2-a251-4b1c-9df8-e3c3973091ff.png" alt="poco" width="50"/>
