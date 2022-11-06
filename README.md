@@ -16,6 +16,7 @@
 
 <h3>Architecture</h3>
 <p> MVVM (Model-View-ViewModel) architecture pattern and data binding is used in the development of this application. The development language of the application is Kotlin. </p>
+
 <ul>
   <li>Architecture;</li>
   <ul>
@@ -28,6 +29,19 @@
   </ul>
 </ul>
 
+<ul>
+  <li>Third parties;</li>
+  <ul>
+    <li><a href="https://developer.android.com/kotlin/flow">Flow</a></li>
+    <li><a href="https://github.com/google/gson">Gson</a></li>
+    <li><a href="https://github.com/square/retrofit">Retrofit</a></li>
+    <li><a href="https://bumptech.github.io/glide/">Glide</a></li>
+    <li><a href="https://firebase.google.com/">Firebase</a></li>
+    <li><a href="https://firebase.google.com/docs/auth">Firebase Auth</a></li>
+    <li><a href="https://firebase.google.com/docs/database">Firebase Database</a></li>
+    <li><a href="https://github.com/airbnb/lottie-android">Lottie</a></li>
+  </ul>
+</ul>
 
 
 
